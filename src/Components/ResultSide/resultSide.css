@@ -1,0 +1,31 @@
+.result-side{
+    width: 400px;
+    height: 500px;
+    background-color: #133040;
+    float: right;
+    border-radius: 0 15px 15px 50px;
+}
+.result-side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.empty-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.empty-content h5 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+.empty-content p{
+    text-align: center;
+    color: #588aa1;
+    margin: 25px;
+    text-align: justify;
+
+}
