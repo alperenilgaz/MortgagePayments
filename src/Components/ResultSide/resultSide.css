@@ -29,3 +29,60 @@
     text-align: justify;
 
 }
+.active-side{
+    width: 400px;
+    height: 500px;
+    background-color: #133040;
+    float: right;
+    border-radius: 0 15px 15px 50px;
+    padding: 25px;
+}
+.active-side .title{
+    color: #fff;
+    font-size: 30px;
+}
+
+.active-side .info{
+    color: rgb(97, 120, 122);
+    margin-top: 20px;
+}
+.payment{
+    width: 300px;
+    height: 230px;
+    background-color: #0f242f;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-top: 4px solid rgb(196, 196, 5);
+    border-radius: 20px;
+}
+.monthly-payment{
+    margin: 20px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.monthly-payment p{
+    color: rgb(113, 139, 142);
+}
+.monthly-payment h3{
+    font-size: 40px;
+    color: rgb(217, 248, 22);
+    margin-top: 10px;
+
+}
+.bot-line{
+    border-bottom: 1px solid rgb(113, 139, 142) ;
+    width: 80%;
+    margin: 0 auto;
+}
+.total-payment{
+    margin: 20px;
+    padding: 10px;
+}
+.total-payment p{
+    color: rgb(113, 139, 142);
+}
+.total-payment h5{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+}
